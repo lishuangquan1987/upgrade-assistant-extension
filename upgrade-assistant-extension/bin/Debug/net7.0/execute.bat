@@ -1,0 +1,1 @@
+upgrade-assistant.exe upgrade Langtian.DCS.Models/Langtian.DCS.Models.csproj --non-interactive
